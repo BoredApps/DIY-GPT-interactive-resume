@@ -43,11 +43,11 @@ and the data is should draw from. I've provided a sample prompt sheet to use as 
 
 ## 2️⃣ Upload the Data: 
 This app is to represent you as if you are being interviews, so you will need to give it the data from which to draw answers. I've configured my version of the app to draw from 4 main files (docx or PDF) 
-1. Resume.pdf: As a resume' based app, starting with a solid resume' is important. Since I'm applying for 2 different roles, I've suppliedmine with 2 different resume's customized for those roles, and formatted for application tracking systems. If neeed help with resume formats, I have <a href="https://github.com/BoredApps/Free-Resume-Templates">free resume templates here</a>. 
-2. Skills.pdf:  I created a doc that just lists skills, categorized as "Familiar with" (Understand or learning), "Proficient with" (Hands on in a production enviroment), and "Experienced with" (Significant experience), "Expert". You can categorize them
+1. Resume.pdf: As a resume' based app, starting with a solid resume' is important. Since I'm applying for 2 different roles, I've uploaded 2 different resume's, 1 for each role, and formatted for application tracking systems. If neeed help with resume formats, I have <a href="https://github.com/BoredApps/Free-Resume-Templates">free resume templates here</a>. 
+2. Skills.pdf:  I created a doc that just lists skills, categorized as "Familiar with" (Understand or learning), "Proficient with" (Hands on in a production enviroment), and "Experienced with" (Significant experience), and "Expert". You can categorize them
    how you want, or chose not to do this step. 
-4. Questions.pdf: I simply asked Chat GPT for examples of common interview questions for the positions I am applying, and supplimented with info from job descriptions I'd applied to, previous interviews,
-   and created a doc of answers to those questions.
+4. Questions.pdf: I simply asked Chat GPT for examples of common interview questions for the positions I am applying, supplimented it with info from jobs I'd applied to, memory from previous interviews,
+   and I created a doc of answers to those questions.
 5. LinkedIn.pdf: You will need to <a href="https://www.linkedin.com/help/linkedin/answer/a541960/save-a-profile-as-a-pdf?lang=en-us&intendedLocale=en" target="_blank">export your LinkedIn profile as a pdf</a>, and upload to your custom GPT 
 6. I also uploded the Directions.pdf with the original prompt for it to remind itself of it's role, and where it will draw the data.
 7. <b>Make sure to edit your prompts and directions to make it draw from whatever files you've upload, and why it should do that. </b>
