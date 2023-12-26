@@ -28,8 +28,8 @@ https://github.com/BoredApps/resume-chat/assets/154591403/40cdf8c2-a1c4-414f-9c2
 
 
 <br>
-⚠️ These directions assume that you already have a GPT Plus account, and are familiar with building a Custom GPT App.<br>
-⚠️ The docs provided are examples. You will need to edit them for your use case, or create your own. <br>
+⚠️ These directions assume that you already have a GPT Plus account, and are familiar with building GPT Apps.<br>
+⚠️ The docs provided are examples. You will need to edit them, or create your own. <br>
 ⚠️ You're not limited to what I've done here. I'm merely showing my work to help kick start some ideas. 
 <br>
 <br>
