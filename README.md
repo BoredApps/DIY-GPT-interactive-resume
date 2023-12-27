@@ -39,18 +39,19 @@ and formatted them for application tracking systems. If you need help with resum
 3. **Skills.pdf:** I created a document that lists skills categorized as "Familiar with" (understand or learning), "Proficient with" (hands-on in a production environment), "Experienced with" (significant experience),
 and "Expert." You can categorize them as you want or choose not to do this step.
 
-6. **Questions.pdf:** I simply asked Chat GPT for examples of common interview questions for the positions I am applying for, supplemented it with information from jobs I'd applied to, memories from previous interviews, and I created a document of answers to those questions.
+4. **Questions.pdf:** I simply asked Chat GPT for examples of common interview questions for the positions I am applying for, supplemented it with information from jobs I'd applied to, memories from previous interviews, and I created a document of answers to those questions.
 
-7. **LinkedIn.pdf:** You will need to [export your LinkedIn profile as a PDF](https://www.linkedin.com/help/linkedin/answer/a541960/save-a-profile-as-a-pdf?lang=en-us&intendedLocale=en), and upload it to your custom GPT.
+5. **LinkedIn.pdf:** You will need to [export your LinkedIn profile as a PDF](https://www.linkedin.com/help/linkedin/answer/a541960/save-a-profile-as-a-pdf?lang=en-us&intendedLocale=en), and upload it to your custom GPT.
 
-8. I also uploaded the **Directions.pdf** with the original prompt for it to remind itself of its role and where it will draw the data.
+6. I also uploaded the **Directions.pdf** with the original prompts for it to remind itself of its role, and from where it will draw the data.
 
 <b>Make sure to edit your prompts and directions to make it draw from whatever files you've uploaded and explain why it should do that.</b>
 
-## 3️⃣ Test, Fine-Tune, and Share
+## 3️⃣ Additional tips
 * Test your resume chat. You may need to fine tune a few things or add custom instructions to ensure that it best represents you.
-* The sky is the limit. You will discover many things that you may want to apply to your custom resume chat.
-* I prefer to keep my resume chat only for those with the link, but you may want to make yours public. It's up to you. 
+* It has a tendancy to repeat the question before answering. I don't like that. It comes off as filler to me. I've instructed mine to stop doing that, and just answer directly. 
+* I prefer to keep my resume chat only for those with the link, but you may want to make yours public. It's up to you.
+* DO NOT include any personal information, phone number, address, or contact info of any references in your data sheets. 
 <br>
 <br>
 <br>
