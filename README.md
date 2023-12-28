@@ -28,18 +28,16 @@ https://github.com/BoredApps/resume-chat/assets/154591403/0105e77e-8057-4d97-863
 
 ## 1️⃣ The Prompt
 The first step is to provide your custom GPT with direction and purpose. You can fine-tune it as you wish, but you need to define the parameters by which it should operate and the data it should draw from. 
-I've provided a sample prompt sheet to use as a starting point.
+I've provided a sample prompt sheet above titled "Directions_sample.pdf" to use as a starting point.
 
 ## 2️⃣ Upload the Data
 Since this app represents you as if you are being interviewed, you need to provide it with the data from which to draw answers. I've configured my version of the app to draw from four main files (docx or PDF):
 
-1. **Resume.pdf:** As a resume-based app, starting with a solid resume is essential. Since I'm applying for two different roles, I've uploaded two different resumes, one for each role,
-and formatted them for application tracking systems. If you need help with resume formats, I have [free resume templates here](https://github.com/BoredApps/Free-Resume-Templates).
+1. **Resume.pdf:** As a resume-based app, starting with a solid resume is essential. Since I'm applying for two different roles, I've uploaded two different resumes, one for each role, and formatted them for application tracking systems. If you need help with resume formats, I have [free resume templates here](https://github.com/BoredApps/Free-Resume-Templates). Download the sample resume above. 
 
-3. **Skills.pdf:** I created a document that lists skills categorized as "Familiar with" (understand or learning), "Proficient with" (hands-on in a production environment), "Experienced with" (significant experience),
-and "Expert." You can categorize them as you want or choose not to do this step.
+3. **Skills.pdf:** I created a document that lists skills categorized as "Familiar with" (understand or learning), "Proficient with" (hands-on in a production environment), "Experienced with" (significant experience),and "Expert." You can categorize them as you want or choose not to do this step. Download the sameple skills pdf above. 
 
-4. **Questions.pdf:** I simply asked Chat GPT for examples of common interview questions for the positions I am applying for, supplemented it with information from jobs I'd applied to, memories from previous interviews, and I created a document of answers to those questions.
+4. **Questions.pdf:** I simply asked Chat GPT for examples of common interview questions for the positions I am applying for, supplemented it with information from jobs I'd applied to, memories from previous interviews, and I created a document of answers to those questions. Download an example of industry specific questions above. 
 
 5. **LinkedIn.pdf:** You will need to [export your LinkedIn profile as a PDF](https://www.linkedin.com/help/linkedin/answer/a541960/save-a-profile-as-a-pdf?lang=en-us&intendedLocale=en), and upload it to your custom GPT.
 
