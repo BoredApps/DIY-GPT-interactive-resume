@@ -54,8 +54,8 @@ Since this app represents you as if you are being interviewed, you need to provi
 <br>
 <br>
 <hr>
-<hr />
 
 ### Credits:
-<img class="wp-image-4213 alignright" src="https://boredapps.ai/wp-content/uploads/2024/01/WordSmith_Logo_transparent-150x150.png" alt="" width="69" height="69" />This article was written with the assistance of <strong><a href="https://chat.openai.com/g/g-dH2mK7Um0-wordsmith">WordSmith, a custom ChatGPT Plus application</a>, </strong>and thoughtfully edited by our skilled team of humans to ensure the highest quality and authenticity.
+This article was written with the assistance of <strong><a href="https://chat.openai.com/g/g-dH2mK7Um0-wordsmith">WordSmith, a custom ChatGPT Plus application</a>, </strong>and thoughtfully edited by a human to ensure the highest quality and authenticity. 
+<hr>
 * Visit us at <a href="https://BoredApss.ai">BoredApps.ai</a>
