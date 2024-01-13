@@ -54,7 +54,8 @@ Since this app represents you as if you are being interviewed, you need to provi
 <br>
 <br>
 <hr>
-Check out my Custom GPTs! <br>
-* <a style="color:#ffc805;" href="https://chat.openai.com/g/g-JhRPT0uWY-the-resumator">The Resumator</a> - Create custom job resume's, formatted for applicant tracking systems.<br>
-* <a href="https://chat.openai.com/g/g-dH2mK7Um0-wordsmith">WordSmith</a> - An AI writing assistant for creative expression, professional tones, entertaining styles, and humorous translations. <br>
+<hr />
+
+### Credits:
+<img class="wp-image-4213 alignleft" src="https://boredapps.ai/wp-content/uploads/2024/01/WordSmith_Logo_transparent-150x150.png" alt="" width="69" height="69" />This article was written with the assistance of <strong><a href="https://chat.openai.com/g/g-dH2mK7Um0-wordsmith">WordSmith, a custom ChatGPT Plus application</a>, </strong>and thoughtfully edited by our skilled team of humans to ensure the highest quality and authenticity.
 * Visit us at <a href="https://BoredApss.ai">BoredApps.ai</a>
