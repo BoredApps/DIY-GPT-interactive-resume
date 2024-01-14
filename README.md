@@ -45,7 +45,9 @@ Since this app represents you as if you are being interviewed, you need to provi
 
 <b>Make sure to edit your prompts and directions to make it draw from whatever files you've uploaded and explain why it should do that.</b>
 
-## 3️⃣ Additional tips
+## 3️⃣ Give your GPT instructions
+
+## 4️⃣ Additional tips
 * Test your resume chat. You may need to fine tune a few things or add custom instructions to ensure that it best represents you.
 * It has a tendancy to repeat the question before answering. I don't like that. It comes off as filler to me. I've instructed mine to stop doing that, and just answer directly. 
 * I prefer to keep my resume chat only for those with the link, but you may want to make yours public. It's up to you.
