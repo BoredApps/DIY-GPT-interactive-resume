@@ -1,4 +1,4 @@
-# 🎉 How to build an Interactive Resume GPT
+# 🎉 How to build your own Interactive Resume GPT
 
 ## 🛈 Purpose
 During interviews, I often found myself forgetting important points or not articulating my answers well because I don't have a response to every possible question committed to memory. Therefore, I have created a Custom GPT to enable recruiters and hiring managers to gain deeper insights into my personality, qualifications, knowledge, and experience in a fun and interactive way.
@@ -46,6 +46,17 @@ Since this app represents you as if you are being interviewed, you need to provi
 <b>Make sure to edit your prompts and directions to make it draw from whatever files you've uploaded and explain why it should do that.</b>
 
 ## 3️⃣ Give your GPT instructions
+I have provided [a sample doc above](https://github.com/BoredApps/DIY-GPTPlus-interactive-resume/blob/main/Interactive%20Resume%20GPT%20Instructions.pdf) that suggests how to structure your custom instructions using this format:
+* ## Overview
+* ## Detailed Instructions
+* ## Resources
+* ### Step 1: Initialization
+* ### Step 2: Specific Tasks
+* ### Step 3: User Interaction
+* ### Step 4: Error Handling
+* ### Step 5: Custom Features (optional)
+* ## Security
+* ## Conclusion
 
 ## 4️⃣ Additional tips
 * Test your resume chat. You may need to fine tune a few things or add custom instructions to ensure that it best represents you.
