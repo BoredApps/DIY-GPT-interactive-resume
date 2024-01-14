@@ -68,6 +68,10 @@ I have provided [a sample doc above](https://github.com/BoredApps/DIY-GPTPlus-in
 <br>
 <hr>
 
+## 🤓 Be the First to Discover What's New at BoredApps!
+Stay ahead of the curve. When you join our community you'll receive exclusive updates, insider tips, and early access to our newest offerings all conveniently delivered straight to your inbox @ https://sendfox.com/realboredapps 
+<hr>
+
 ### Credits:
 This article was written with the assistance of <strong><a href="https://chat.openai.com/g/g-dH2mK7Um0-wordsmith">WordSmith, a custom ChatGPT Plus application</a>, </strong>and thoughtfully edited by a human to ensure the highest quality and authenticity. 
 <hr>
