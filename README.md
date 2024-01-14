@@ -1,4 +1,4 @@
-# 🎉 Build an Interactive Resume GPT
+# 🎉 How to build an Interactive Resume GPT
 
 ## 🛈 Purpose
 During interviews, I often found myself forgetting important points or not articulating my answers well because I don't have a response to every possible question committed to memory. Therefore, I have created a Custom GPT to enable recruiters and hiring managers to gain deeper insights into my personality, qualifications, knowledge, and experience in a fun and interactive way.
